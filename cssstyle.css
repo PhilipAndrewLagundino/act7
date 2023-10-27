@@ -1,0 +1,99 @@
+
+a { 
+    margin-right: 25px;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+   
+  }    
+  p {
+    background-color: darkgreen;
+    padding: 15px;
+    text-align: center;
+    border: 3px solid gold;
+  }
+  img {
+     display:block;
+     width: 50%;
+     margin: auto;
+     border: 3px solid green;
+     border-radius: 50%;
+  }
+  table{
+     border: 1px solid darkgreen;
+     border-collapse: collapse;
+  }
+  .Ctetable{
+    border: solid yellow;
+    border-collapse: collapse;
+
+}
+.coetable{
+    border: solid maroon;
+    border-collapse: collapse;
+}
+.cittable{
+    border: solid red;
+    border-collapse: collapse;
+}
+
+  td{
+    border: 1px solid darkgreen;
+    padding: 5px;
+  }
+.citstyle{
+    color: red;
+}
+.coestyle{
+    color: maroon;
+
+}
+.ctestyle{
+     color: yellow;
+}
+
+
+a:hover{
+    background-color: rgba(55,55,55,0.489);
+    color: rbg(255,255,255);
+    padding: 10px;
+}
+.imgcoe:hover{
+  display: block;
+    width: 50%;
+    margin: auto;
+    border: 3px solid maroon;
+    border-radius: 100%;
+    box-shadow: 20px 20px 20px maroon;
+}
+.imgcit:hover{
+  display: block;
+    width: 50%;
+    margin: auto;
+    border: 3px solid red;
+    border-radius: 100%;
+    box-shadow: 20px 20px 20px red;
+}
+.imgcte:hover{
+  display: block;
+    width: 50%;
+    margin: auto;
+    border: 3px solid yellow;
+    border-radius: 100%;
+    box-shadow: 20px 20px 20px yellow;
+}
+h1{
+  color: green;
+  background-color: gold;
+  text-align: center;
+}
+.imgmmsu:hover{
+  display: block;
+    width: 50%;
+    margin: auto;
+    border: 3px solid gold;
+    border-radius: 100%;
+    box-shadow: 20px 20px 20px gold;
+}
+
+  
